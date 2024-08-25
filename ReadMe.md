@@ -1,7 +1,9 @@
 # 💫 About Me:
-I'm working as a data science<br>I'm learning machine learning<br>If u need help for machine learning let me know <br>
+## About Me
 
+I’m a statistics graduate currently working in data science. I’m passionate about using data to uncover insights and solve problems. My skills include working with Python and libraries like Pandas, NumPy, Seaborn, and mastering list comprehensions. I’m always eager to learn more and improve my skills in data analysis and visualization.
 
+If you have any questions about data science or if you'd like to discuss data projects, feel free to reach out!
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Makin1st/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/erdincuzunlu/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/erdincuzunlu/) 
 
