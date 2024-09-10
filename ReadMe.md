@@ -1,7 +1,12 @@
-# 💫 About Me:
-## About Me
+Hello! I’m Erdinc Uzunlu, a passionate data scientist with a background in statistics. Currently, I am leveraging my skills in data science to uncover valuable insights and solve complex problems.
 
-I’m a statistics graduate currently working in data science. I’m passionate about using data to uncover insights and solve problems. My skills include working with Python and libraries like Pandas, NumPy, Seaborn, and mastering list comprehensions. I’m always eager to learn more and improve my skills in data analysis and visualization.
+My expertise includes:
+
+	•	Python Programming: Proficient in Python and its libraries such as Pandas, NumPy, and Seaborn.
+	•	Data Analysis & Visualization: Skilled in analyzing data, creating compelling visualizations, and deriving actionable insights.
+	•	Problem-Solving: Experienced in applying statistical techniques and data-driven approaches to tackle real-world challenges.
+
+I thrive on continuous learning and am always excited to explore new tools and methodologies in data science. Whether you have questions about data analysis, need advice on a project, or just want to discuss the latest trends in data science, feel free to connect with me!
 
 If you have any questions about data science or if you'd like to discuss data projects, feel free to reach out!
 ## 🌐 Socials:
