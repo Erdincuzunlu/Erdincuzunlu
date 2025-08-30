@@ -1,12 +1,20 @@
-# 👋 Hi, I'm Erdinç Uzunlu
+👋 Hi, I'm Erdinç Uzunlu  
 
-🎓 Background in Statistics & Finance  
-📊 Data Analyst passionate about data-driven problem solving  
-💻 Tools: Python | Pandas | SQL | Seaborn | Excel | Git | n8n | APIs  
-🧩 Focus Areas: CRM analytics, A/B testing, fund operations, automation  
-📁 Recent Projects:
-- LinkedIn automation via APIs (n8n, Webhook.site)
-- Customer segmentation with RFM
-- Service recommendation using ARL
+📊 **Background:** Statistics & Finance  
+🔍 **Focus:** Data Analysis, Automation, and AI-driven insights  
 
-📬 Connect with me: [LinkedIn](https://www.linkedin.com/in/erdincuzunlu)
+🛠️ **Technical Skills:**  
+- **Programming & Data:** Python (Pandas, NumPy, Scikit-learn), SQL, Excel  
+- **Visualization:** Matplotlib, Seaborn, Power BI  
+- **Automation & APIs:** n8n, REST APIs, Webhooks  
+- **Version Control:** Git, GitHub  
+- **Statistical Methods:** Hypothesis testing, A/B testing, Chi-square, Regression, Clustering  
+
+💡 **Expertise Areas:**  
+- Data cleaning & preprocessing  
+- Statistical analysis & hypothesis testing  
+- Machine learning (classification, clustering, recommendation)  
+- Workflow automation (CRM integrations, API pipelines)  
+- Business analytics (customer segmentation, churn prediction, LTV modeling)  
+
+📫 **Connect with me:** [LinkedIn](your-link)
